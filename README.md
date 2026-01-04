@@ -67,7 +67,6 @@ Open `frontend.html` in your web browser:
 ai_talking_agent/
 ├── agent.py          # Core AI logic with smart responses
 ├── main.py           # FastAPI backend server
-├── ai_agent.py       # Standalone agent (CLI version)
 ├── frontend.html     # Web UI for interaction
 └── README.md         # This file
 ```
@@ -213,4 +212,5 @@ For issues or questions:
 ---
 
 **Happy Chatting! 🎉**
+
 
